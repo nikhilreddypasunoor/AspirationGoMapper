@@ -21,4 +21,4 @@ Time Complexity: o(n)
 Space Complexity: o(n)
 
 ## Notes
-1. When main.go is run both part of the challenge is run with anb input example from the original challenge
+1. When main.go is run both part of the challenge is run with an input example from the original challenge
