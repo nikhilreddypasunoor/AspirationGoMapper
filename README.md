@@ -1,5 +1,5 @@
 # AspirationGoMapper
-Solution for [AspirationGoMapper](https://gist.github.com/charliemcelfresh/ffd8855600fa834b28f1abb29f0d417d)
+Coding Challenge Solution for [AspirationGoMapper](https://gist.github.com/charliemcelfresh/ffd8855600fa834b28f1abb29f0d417d)
 
 ## Instructions to Run
 1. Git Clone https://github.com/nikhilreddypasunoor/AspirationGoMapper
