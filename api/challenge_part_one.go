@@ -5,6 +5,7 @@ import (
 	"unicode"
 )
 
+// Solution for part one of coding challenge https://gist.github.com/charliemcelfresh/ffd8855600fa834b28f1abb29f0d417d
 func CapitalizeEveryThirdAlphanumericChar(s string) string {
 	var ch string
 	Result := ""

@@ -10,6 +10,7 @@ type Interface interface {
 	GetValueAsRuneSlice() []rune
 }
 
+// Solution for part two of coding challenge https://gist.github.com/charliemcelfresh/ffd8855600fa834b28f1abb29f0d417d
 func MapString(i Interface) {
 	for pos := range i.GetValueAsRuneSlice() {
 		i.TransformRune(pos)
